@@ -7,7 +7,8 @@ library(zoo)
 library(forecast)
 library(tseries)
 require(graphics)
-
+     
+# This is comment
 #setwd("~/Desktop/timeseries/")
 global_superstore <- read.csv("Global Superstore.csv")
 
